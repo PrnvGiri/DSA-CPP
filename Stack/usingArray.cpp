@@ -55,7 +55,7 @@ Push(7);
 
 cout<<endl;
 traverse();
-//Peek();
+Peek();
 
 Pop();
 
