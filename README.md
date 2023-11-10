@@ -1,6 +1,6 @@
 # Data Structures and Algorithms (DSA) Repository
 
-This repository contains a collection of common data structures and algorithms implemented in various programming languages. Whether you are a beginner or an experienced programmer, this repository is a valuable resource for learning and practicing data structures and algorithms. Understanding these fundamental concepts is crucial for efficient problem-solving and software development.
+This repository contains a collection of common data structures and algorithms implemented in C++ programming language. Whether you are a beginner or an experienced programmer, this repository is a valuable resource for learning and practicing data structures and algorithms. Understanding these fundamental concepts is crucial for efficient problem-solving and software development.
 
 ## Table of Contents
 1. [Introduction](#introduction)
